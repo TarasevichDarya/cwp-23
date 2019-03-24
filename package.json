@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "workspaces": [
+        "mendeleev",
+        "mendeleev-master",
+        "mendeleev-stringify"
+    ],
+    "name": "cwp-23",
+    "version": "1.0.0",
+    "description": "cwp-23",
+    "main": "mendeleev/index.js",
+    "repository": "https://github.com/daryatarasevich/cwp-23.git",
+    "author": "Darya Tarasevich",
+    "license": "MIT",
+    "dependencies": {
+        "fs": "0.0.1-security",
+        "mendeleev": "file:mendeleev",
+        "mendeleev-master": "file:mendeleev-master",
+        "mendeleev-stringify": "file:mendeleev-stringify"
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mendeleev-stringify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "daryatarasevich",
+  "license": "MIT",
+  "dependencies": {
+    "mendeleev": "1.0.0",
+    "cross-env": "5.0.5"
+  }
+}
